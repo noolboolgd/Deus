@@ -1,6 +1,6 @@
 # Examples
 ![[Baby Coloured.png|263]]![[baby.png|384]]
-
+![[ComicBaby.png|373]]![[Baby Greyscale.png|245]]
 # Guide
 Sure — I can walk you through how to take a baby photo and recreate the dark, high-contrast, grainy, black-and-white “baby tomato” look from the video using GIMP. I’ll assume you already have the baby image you want to use and GIMP installed. If anything is unclear, tell me what version of GIMP you’re using and I’ll adapt.
 
@@ -49,9 +49,3 @@ Step-by-step workflow (GIMP)
 
 9) Export
 - When satisfied, export as PNG for transparency (File > Export As), or as JPG if flattened background and posterized effect is desired.
-
-Quick tips to match the video’s exact look
-- Keep the face mostly desaturated with deep blacks; avoid overly smooth gradients — push contrast and use textured brushes and noise to keep grit.
-- Use layer modes (Multiply, Overlay, Soft light) for shading/texture rather than lowering opacity only.
-- Use Path tool + Stroke Path for clean vine lines rather than freehand if you want smooth, graphic lines.
-- Save a layered XCF file so you can tweak individual components later.zz

@@ -1,0 +1,58 @@
+# ==============================
+# Unity
+# ==============================
+
+# Generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+
+# Unity generated files
+sysinfo.txt
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ==============================
+# Obsidian
+# ==============================
+
+# Workspace settings (local preferences)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# ==============================
+# Operating system
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.bak
+*.swp
